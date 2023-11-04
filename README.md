@@ -10,4 +10,4 @@
 
 ## Demo
 
-![Demo iOS](./docs/demo.gif)
+![Demo iOS](./docs/Demo.gif)
