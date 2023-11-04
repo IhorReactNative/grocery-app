@@ -10,4 +10,4 @@
 
 ## Demo
 
-![Demo iOS](./docs/demo2.gif)
+<img src="./docs/demo2.gif" width="300"  />
