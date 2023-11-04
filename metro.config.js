@@ -11,6 +11,7 @@ module.exports = {
       transform: {
         experimentalImportSupport: false,
         inlineRequires: true,
+        nonInlinedRequires: ['@react-native-async-storage/async-storage', 'React', 'react', 'react-native'],
       },
     }),
   },

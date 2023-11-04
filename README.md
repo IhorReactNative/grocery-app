@@ -1,3 +1,13 @@
 # grocery-app
 
-- [Development changelog](./CHANGELOG.md)
+## Setup
+
+```bash
+ yarn run project:install
+```
+
+## [Development changelog](./docs/CHANGELOG.md)
+
+## Demo
+
+![Demo iOS](./docs/Demo.gif)
